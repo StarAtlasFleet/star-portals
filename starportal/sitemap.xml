@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://starportal.pages.dev/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://starportal.pages.dev/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://starportal.pages.dev/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starportal.pages.dev/" />
+    <image:image>
+      <image:loc>https://starportal.pages.dev/og-image.png</image:loc>
+      <image:title>starportal｜Star Atlas 社群作品群星圖（非官方）</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://starportal.pages.dev/en/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://starportal.pages.dev/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://starportal.pages.dev/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://starportal.pages.dev/" />
+    <image:image>
+      <image:loc>https://starportal.pages.dev/og-image.png</image:loc>
+      <image:title>starportal | Unofficial Star Atlas Community Directory</image:title>
+    </image:image>
+  </url>
+</urlset>

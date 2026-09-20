@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://atlasportal.pages.dev/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://atlasportal.pages.dev/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://atlasportal.pages.dev/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://atlasportal.pages.dev/" />
+    <image:image>
+      <image:loc>https://atlasportal.pages.dev/og-image.png</image:loc>
+      <image:title>atlasportal｜Star Atlas 官方入口索引（非官方整理）</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://atlasportal.pages.dev/en/</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="zh-Hant" href="https://atlasportal.pages.dev/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://atlasportal.pages.dev/en/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://atlasportal.pages.dev/" />
+    <image:image>
+      <image:loc>https://atlasportal.pages.dev/og-image.png</image:loc>
+      <image:title>atlasportal | Star Atlas Official Links, Unofficial Index</image:title>
+    </image:image>
+  </url>
+</urlset>

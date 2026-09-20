@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">atlasportal social preview</title>
+  <desc id="description">A dark engraved brass orrery chart for an unofficial index of official Star Atlas destinations.</desc>
+  <defs>
+    <radialGradient id="background" cx="73%" cy="48%" r="74%">
+      <stop offset="0" stop-color="#162b43"/>
+      <stop offset=".52" stop-color="#101b30"/>
+      <stop offset="1" stop-color="#0a0f1c"/>
+    </radialGradient>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#78e6df"/>
+      <stop offset=".33" stop-color="#7aa8ff"/>
+      <stop offset=".63" stop-color="#b99cff"/>
+      <stop offset=".83" stop-color="#ff91b8"/>
+      <stop offset="1" stop-color="#ffd08a"/>
+    </linearGradient>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grain" width="23" height="23" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="3" r=".7" fill="#efe6d3" opacity=".08"/>
+      <circle cx="17" cy="8" r=".5" fill="#efe6d3" opacity=".05"/>
+      <circle cx="9" cy="20" r=".45" fill="#c9a24b" opacity=".09"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#background)"/>
+  <rect width="1200" height="630" fill="url(#grain)"/>
+  <path d="M48 84V48h36M1116 48h36v36M48 546v36h36M1116 582h36v-36" fill="none" stroke="#c9a24b" stroke-width="2" opacity=".46"/>
+  <path d="M72 72h118M72 558h170" stroke="#c9a24b" opacity=".2"/>
+
+  <g transform="translate(835 315)" fill="none" stroke="#c9a24b">
+    <circle r="218" stroke-width="2" opacity=".55"/>
+    <circle r="199" stroke-width=".8" stroke-dasharray="2 8" opacity=".35"/>
+    <circle r="142" stroke-width="1.2" opacity=".42"/>
+    <circle r="78" stroke-width=".8" stroke-dasharray="5 7" opacity=".34"/>
+    <g opacity=".35">
+      <path d="M0-218V-78M154-154L55-55M218 0H78M154 154L55 55M0 218V78M-154 154L-55 55M-218 0H-78M-154-154L-55-55"/>
+    </g>
+    <g fill="#0a0f1c" stroke-width="2">
+      <circle cy="-218" r="20"/><circle cx="154" cy="-154" r="20"/>
+      <circle cx="218" r="20"/><circle cx="154" cy="154" r="20"/>
+      <circle cy="218" r="20"/><circle cx="-154" cy="154" r="20"/>
+      <circle cx="-218" r="20"/><circle cx="-154" cy="-154" r="20"/>
+    </g>
+    <g fill="#efe6d3" stroke="none">
+      <circle cy="-218" r="4"/><circle cx="154" cy="-154" r="4"/>
+      <circle cx="218" r="4"/><circle cx="154" cy="154" r="4"/>
+      <circle cy="218" r="4"/><circle cx="-154" cy="154" r="4"/>
+      <circle cx="-218" r="4"/><circle cx="-154" cy="-154" r="4"/>
+    </g>
+    <circle r="49" stroke="url(#spectrum)" stroke-width="2.5" filter="url(#glow)"/>
+    <path d="M0-40L7-7L40 0 7 7 0 40-7 7-40 0-7-7Z" fill="#efe6d3" stroke="none"/>
+    <circle r="6" fill="#c9a24b" stroke="none"/>
+  </g>
+
+  <g font-family="Georgia, 'Times New Roman', serif">
+    <text x="72" y="190" fill="#efe6d3" font-size="74" font-weight="700" letter-spacing="-2">atlas<tspan fill="url(#spectrum)">portal</tspan></text>
+    <text x="76" y="244" fill="#c9a24b" font-size="18" letter-spacing="5">OFFICIAL DESTINATIONS</text>
+    <text x="76" y="285" fill="#efe6d3" opacity=".72" font-size="24">Play · Market · Build · Governance</text>
+    <text x="76" y="320" fill="#efe6d3" opacity=".72" font-size="24">Support · News · Social · Legal</text>
+  </g>
+
+  <g transform="translate(76 420)">
+    <rect width="354" height="52" fill="#0a0f1c" stroke="#c9a24b" opacity=".95"/>
+    <path d="M0 0h6M0 0v6M354 0h-6M354 0v6M0 52h6M0 52v-6M354 52h-6M354 52v-6" stroke="url(#spectrum)" stroke-width="3"/>
+    <text x="177" y="33" fill="#efe6d3" font-family="ui-monospace, monospace" font-size="15" text-anchor="middle" letter-spacing="2">UNOFFICIAL · COMMUNITY-MADE</text>
+  </g>
+
+  <text x="76" y="548" fill="#efe6d3" opacity=".48" font-family="ui-monospace, monospace" font-size="14" letter-spacing="2">ATLASPORTAL.PAGES.DEV</text>
+</svg>

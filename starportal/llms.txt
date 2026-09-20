@@ -1,0 +1,82 @@
+# starportal
+
+> An unofficial, bilingual directory of player-made Star Atlas community work. YouTube coverage, narrative series and original music are separate, mutually exclusive creator categories. It distinguishes live destinations from projects still being observed and keeps official ATMTA destinations on the sibling atlasportal site.
+
+## Canonical pages
+
+- [Traditional Chinese](https://starportal.pages.dev/)
+- [English](https://starportal.pages.dev/en/)
+- [Sibling portal](https://atlasportal.pages.dev/)
+- [Machine-readable link data](https://starportal.pages.dev/data/links.json)
+
+## Directory
+
+### Fan Games & Vibe / 同人遊戲與 vibe
+
+- [StarLand — Commander Card / StarLand 指揮官卡](https://starland.pages.dev/): A read-only fan game that forges your on-chain fleet into a collectible Commander Card you can take into battle.
+- [STARPOINT — Fleet Beacon / STARPOINT 艦隊航標](https://starpoint.pages.dev/): A free one-button fleet expedition: activate the beacon, salvage modules, and explore evolving combat across sectors. Progress stays on your device.
+- [Star Atlas — Tufa Attack / Tufa Attack](https://gx.games/games/h5jctu/star-atlas-tufa-attack/tracks/557a4223-d9d5-4976-8bc0-ad85b31bd800/): A community-made Star Atlas top-down arcade shooter by RatONaut Studios.
+- [Valley Arcade](https://arcade.valley.games/): A community arcade platform recognized by Star Atlas Build; its expired Discord invite is replaced with the live project destination.
+- [Cataclysm: Battle for Iris / Cataclysm：Battle for Iris](https://battleforiris.com/): A 1v1 Star Atlas fleet card battler by Aephia Studios, currently offering its PC beta through the project's Discord.
+
+### Tools & Dashboards / 工具與儀表
+
+- SpaceDrift — Market Observatory / SpaceDrift 行情觀測站: Mobile-first, read-only, non-commercial market observatory: live and historical trades, volume stats and whale boards. Status: observing; URL not yet published.
+- Starbot — Paper Strategy Simulator / Starbot paper 策略模擬器: Read-only, non-custodial paper strategy simulator: pick a market, set a strategy, run scenarios with fee-aware P&L. No signing, no keys. Status: observing; URL not yet published.
+
+### Guides & Wiki / 攻略與 wiki
+
+- [Aephia Industries](https://kb.aephia.com/): Community-made economic analysis and starter guides.
+
+### Media & Newsletters / 媒體與電子報
+
+- [Intergalactic Herald / Intergalactic Herald 電子報](https://intergalacticherald.com/): A community-run weekly newsletter.
+
+### YouTube: News & Play / YouTube｜報導與實況
+
+- [Intergalactic Herald](https://www.youtube.com/@intergalacticherald): Weekly Star Atlas news, podcasts and community event recaps.
+- [Sakaleyn](https://www.youtube.com/@sakaleynx): High-frequency Turkish coverage of Star Atlas gameplay, DAO, events and ecosystem updates.
+- [The Calico Institute](https://www.youtube.com/@ProfEarther): Research-institute-style introductions to the Star Atlas economy, community and onboarding.
+- [Lanzer](https://www.youtube.com/@LanzerYT): Recordings of Star Atlas DAO meetings, interviews and racing events.
+- [VBTV / VBTV（原 Star Atlas TV）](https://www.youtube.com/@VBTV-77): Formerly Star Atlas TV, with a long-running archive of Atlas Brew, interviews, DAO and community broadcasts.
+- [Winston](https://www.youtube.com/@Winston_SA): Star Atlas economy, earning guides, DAO interviews and community conversations.
+- [OCG Thor](https://www.youtube.com/@OCGThor): Star Atlas DAO proposals, community initiatives and character-led videos.
+- [Cliper](https://www.youtube.com/@Cliper32): A gaming channel with recurring Star Atlas tournament and match recordings.
+- [MK | Web3 Gaming & Tech / MK｜Web3 Gaming & Tech](https://www.youtube.com/@masterkamote): Web3 gaming and technology coverage including Star Atlas features and updates.
+- [The Hologram News Network](https://www.youtube.com/@Hologram_News): Independent coverage of Star Atlas politics, economics and community news.
+- [Fede91Roma](https://www.youtube.com/@fede91roma): An Italian multi-topic creator covering Star Atlas updates, SAGE and Holosim guides.
+- [Falkor](https://www.youtube.com/@Falkor_ROME): Star Atlas ships, community projects and STARBLOX development content.
+- [Funjible Games](https://www.youtube.com/@FunjibleGames): A multi-game review channel that has featured Star Atlas in reviews and roundups.
+- [Atlas Theory](https://www.youtube.com/c/AtlasTheorySA): A long-running independent channel for Star Atlas features, updates and community perspectives.
+- [MetaVerse Explorer](https://www.youtube.com/c/MetaVerseExplorer): A veteran Star Atlas creator with an extensive archive of updates and analysis.
+- [Metaverse Nomads](https://www.youtube.com/@MetaverseNomads): An archive of earlier Star Atlas ecosystem observations, interviews and community content.
+- [Duyo](https://www.youtube.com/channel/UCT05LjFkuN1CV93l_11N1wg): An archive of earlier Star Atlas and Web3 gaming guides and impressions.
+- [Keplernet — Nebular TV](https://www.youtube.com/channel/UCyVv718QM7QKsWHCQssrMFA): The channel remains active, but its recent coverage has shifted to other space games.
+- [Pock The Pirate](https://www.youtube.com/@pockthepirate): An archive of earlier Star Atlas community and Crew Card videos.
+- [RahMega](https://www.youtube.com/channel/UCzeYIsjzrXrF-dG9M60C8oA): An archive of Star Atlas and broader metaverse project analysis.
+- [The Club](https://www.youtube.com/@theclubguild): The Club guild's historical Star Atlas community video archive.
+- Beyond The Horizon 2620: A former Star Atlas onboarding and ecosystem channel; the terminated account remains as an outer observation record. Status: observing; URL not yet published.
+
+### Series & Narrative / 影集與敘事短片
+
+- [ONIZUK4 INKICHI](https://www.youtube.com/@ONIZUK4INKICHI): Ongoing Star Atlas ship customization, shorts, trailers and fan films.
+- [Star Atlas Crew Adventures](https://www.youtube.com/@StarAtlasCrewAdventures): Seasonal shorts and character stories extending Star Atlas crew adventures.
+- [The Un-Times — Chet Roberts](https://www.youtube.com/@ChetRoberts1): Star Atlas fan shorts about Lowbies, making-of processes and character stories.
+- [Tales of Atlas](https://www.youtube.com/@Tales_of_Atlas): Cinematic intros, faction conflicts and narrative shorts set in Star Atlas.
+
+### Original Music / 原創音樂
+
+- [Star Atlas Friends](https://www.youtube.com/@StarAtlasFriends): Original Star Atlas fan songs and music videos built around its crews and gameplay.
+- [1X0](https://soundcloud.com/1x0-12358193): Instrumental compositions inspired by Star Atlas themes including Ustur, ECOS and racing.
+- [Ducatimo — Terraform by Fire](https://suno.com/@ducatimo_rome): Creator of Terraform by Fire, an album following Commander Vex and ECOS at war.
+- [Subverted Norms](https://subvertednorms.com/star-atlas-anthems/): Creators of Anthems of the Outer Rim, a guild-anthem album for Community Week 2025.
+- [Varian Vel'Aryn](https://www.youtube.com/channel/UCRqUjEdp0jnxZRFiZwutGxg): Artist behind the ECHOS OF THE ATLAS and STAR ATLAS (FRACTURED PROTOCOL) concept albums.
+- [yahnayshin](https://suno.com/@yahnayshin): A series of songs and playlists inspired by the Star Atlas universe.
+- [Jindo · MetaMixx Entertainment](https://www.youtube.com/@MetaMixxE): Jindo's original song Find Me in the Stars, presented with Star Atlas gameplay.
+- [Kritical_mind](https://www.youtube.com/@kritical_mind): Star Atlas C4 gameplay blended with original music and AI visuals.
+
+## Provenance and affiliation
+
+- Directory data was last reviewed on 2026-09-21.
+- An unofficial, community-made index with no affiliation to or endorsement by ATMTA, Inc. Inspired by Star Atlas. STAR ATLAS and STAR ATLAS: POWERED BY THE PEOPLE are trademarks or registered trademarks of ATMTA, Inc.
+- This file is a supplementary machine-readable summary. The canonical HTML pages and data/links.json remain authoritative.

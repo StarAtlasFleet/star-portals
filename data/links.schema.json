@@ -1,0 +1,82 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://gjlmotea.com/star/links.schema.json",
+  "title": "Star Portal Links",
+  "description": "atlasportal(官方連結目錄)與 starportal(社群群星)共用的單一資料源。UI 只是投影,不改資料。",
+  "type": "object",
+  "required": ["meta", "categories", "links"],
+  "additionalProperties": false,
+  "properties": {
+    "meta": {
+      "type": "object",
+      "required": ["updated", "disclaimer"],
+      "additionalProperties": false,
+      "properties": {
+        "updated": { "type": "string", "format": "date" },
+        "disclaimer": {
+          "type": "string",
+          "description": "ATMTA 授權要求的固定商標聲明,兩個 portal 都要顯示。"
+        },
+        "disclaimerEn": { "type": "string", "description": "英文版商標聲明(EN 介面用)。" }
+      }
+    },
+    "categories": {
+      "type": "object",
+      "description": "以 portal 鍵(atlas / star)分組的分類定義,link.category 需指向對應 portal 底下的 id。",
+      "additionalProperties": {
+        "type": "array",
+        "items": {
+          "type": "object",
+          "required": ["id", "label"],
+          "additionalProperties": false,
+          "properties": {
+            "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+            "label": { "type": "string" },
+            "labelEn": { "type": "string" }
+          }
+        }
+      }
+    },
+    "links": {
+      "type": "array",
+      "items": { "$ref": "#/$defs/link" }
+    }
+  },
+  "$defs": {
+    "link": {
+      "type": "object",
+      "required": ["id", "title", "url", "portals", "official", "category"],
+      "additionalProperties": false,
+      "properties": {
+        "id": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+        "title": { "type": "string" },
+        "titleZh": { "type": "string" },
+        "url": {
+          "description": "正式外連使用絕對 URI；尚未上線、verified=false 的觀測項目使用空字串。",
+          "oneOf": [
+            { "type": "string", "format": "uri" },
+            { "const": "" }
+          ]
+        },
+        "desc": { "type": "string", "description": "一句話繁中說明,產品化語氣,不露技術詞。" },
+        "descEn": { "type": "string", "description": "一句話英文說明(EN 介面用)。" },
+        "category": { "type": "string", "description": "指向 categories[portal] 內的某個 id。" },
+        "portals": {
+          "type": "array",
+          "description": "這條連結要出現在哪些 portal:atlas(官方目錄)、star(社群)。可同時。",
+          "items": { "enum": ["atlas", "star"] },
+          "minItems": 1,
+          "uniqueItems": true
+        },
+        "official": {
+          "type": "boolean",
+          "description": "是否 ATMTA 官方資產。true=官方徽記;false=社群作品,需與官方明確區隔。"
+        },
+        "tags": { "type": "array", "items": { "type": "string" } },
+        "verified": { "type": "boolean", "description": "URL 是否已本人核對可達且屬實。" },
+        "checkedAt": { "type": "string", "format": "date" },
+        "source": { "type": "string", "description": "來源出處(provenance):如 staratlas.com footer / web-search / discord-paste。" }
+      }
+    }
+  }
+}

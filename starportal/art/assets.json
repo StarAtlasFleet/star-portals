@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "updated": "2026-07-30",
+  "assets": [
+    {
+      "id": "starportal-social-preview",
+      "intent": "1200×630 Open Graph / Twitter Card preview matching the portal's engraved brass constellation visual language while making the player-made and unofficial status explicit.",
+      "source": {
+        "path": "art/sources/og-image.svg",
+        "sha256": "4f25d3af0449a4d9a1480877b2c5310700c92ff99fd09e7673658723a221afba",
+        "generator": "Hand-authored SVG; no generative model",
+        "sourceRelationship": "Original portal artwork; no external images, official logos, or third-party assets"
+      },
+      "licenseStatus": "Original project artwork",
+      "derivatives": [
+        {
+          "path": "og-image.png",
+          "sha256": "94b3f949e268813daa81699c3e0b5cad771843b96abb738e2a24079ef5c690ab",
+          "dimensions": "1200x630",
+          "format": "PNG",
+          "renderer": "sharp 0.32.6 / libvips 8.14.5"
+        }
+      ]
+    },
+    {
+      "id": "starportal-install-icons",
+      "intent": "Install and touch icons derived from the existing original starportal mark.",
+      "source": {
+        "path": "logo.svg",
+        "sha256": "96304a80a0b54a845c0d5aed812d90abc97e136d97231e9d57512559250f3c0a",
+        "generator": "Existing hand-authored SVG mark",
+        "sourceRelationship": "Original portal logo"
+      },
+      "licenseStatus": "Original project artwork",
+      "derivatives": [
+        {
+          "path": "icon-192.png",
+          "sha256": "a870db9cba6bf5a794fa6e26929ea21176cd732268d47ac082cb147ae8783be9",
+          "dimensions": "192x192",
+          "format": "PNG"
+        },
+        {
+          "path": "icon-512.png",
+          "sha256": "08497a8be779a260377f6e2b1ebad1e8dbad32e32d67c0bba5c403aa6415e9c7",
+          "dimensions": "512x512",
+          "format": "PNG"
+        },
+        {
+          "path": "apple-touch-icon.png",
+          "sha256": "937fda6ba59d11cc932dcf3f0b0d7f6a1e28d8c459a72b3a0cacdf8262cabd61",
+          "dimensions": "180x180",
+          "format": "PNG"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+# atlasportal
+
+> An unofficial, bilingual directory of official Star Atlas destinations. It separates the community-made index from ATMTA and links only to official game, Zink network, marketplace, developer, governance, support, news, YouTube, social and legal destinations.
+
+## Canonical pages
+
+- [Traditional Chinese](https://atlasportal.pages.dev/)
+- [English](https://atlasportal.pages.dev/en/)
+- [Sibling portal](https://starportal.pages.dev/)
+- [Machine-readable link data](https://atlasportal.pages.dev/data/links.json)
+
+## Directory
+
+### Play / 遊戲入口
+
+- [Star Atlas — Experience Hub / 官方入口](https://experience.staratlas.com): The official hub — gateway to the game, news, legal pages and every sub-site.
+- [Star Atlas on Epic Games Store / Epic 商店本體](https://store.epicgames.com/en-US/p/star-atlas-bead34): Download page for the game client on the Epic Games Store.
+- [SAGE Labs](https://based.staratlas.com/): Browser strategy play — mining, logistics and crafting on Starbased.
+- [Holosim](https://holosim.staratlas.com/): Free fleet combat simulator — no assets required.
+
+### Zink Network / Zink 網路
+
+- [z.ink Dashboard / z.ink 身分與聲望中心](https://z.ink/): Create a zProfile, earn zXP, and track identity, reputation and leaderboard progress across the Zink ecosystem.
+- [Zink Documentation / Zink 開發者文件](https://docs.z.ink/): Official technical entry point for Zink Testnet, SVM programs, validators, RPC, the bridge and compatibility policy.
+- [Zink Asset Bridge / Zink 資產橋](https://bridge.z.ink/): Move supported assets between networks and Zink; the current bridge is operator-managed, so review its limitations before use.
+
+### Marketplace / 市場
+
+- [Galactic Marketplace / 銀河市場](https://play.staratlas.com/market/): The official on-chain marketplace for ships, resources and services.
+
+### Build & Assets / 開發者與素材
+
+- [Star Atlas Build / 官方開發者與素材庫](https://build.staratlas.com/): Official creator & developer hub: IP guidance, the Powered-by-the-People program, Galaxy API, mainnet program IDs and UE tooling.
+- [Press Kit / 媒體素材包](https://experience.staratlas.com/newsroom/press-kit): Officially approved brand and media assets.
+
+### News & Info / 官方資訊
+
+- [Newsroom / 官方新聞室](https://experience.staratlas.com/newsroom): Official news, updates and economic reports.
+
+### Governance / 治理
+
+- [Star Atlas DAO / DAO 治理](https://govern.staratlas.com/): The official DAO portal — POLIS locking, PIP proposals and voting.
+
+### Support / 支援
+
+- [Help Center / 官方支援中心](https://support.staratlas.com/): Official guides, FAQ and customer support.
+
+### Official Social / 官方社群
+
+- [Star Atlas Discord / 官方 Discord](https://discord.gg/staratlas): The official community chat.
+- [Star Atlas on X / 官方 X(Twitter)](https://x.com/staratlas): The official X account.
+- [Star Atlas on YouTube / 官方 YouTube](https://www.youtube.com/channel/UCt-y8Npwje5KDG5MSZ0a9Jw): The official video channel.
+- [r/StarAtlas / 官方 Reddit](https://www.reddit.com/r/StarAtlas/): The official subreddit.
+
+### Legal / 法務
+
+- [Terms of Service / 服務條款](https://experience.staratlas.com/terms-of-service): Official terms of service — required reading before building anything on top.
+- [Privacy Policy / 隱私政策](https://experience.staratlas.com/privacy-policy): The official privacy policy.
+
+## Provenance and affiliation
+
+- Directory data was last reviewed on 2026-09-21.
+- An unofficial, community-made index with no affiliation to or endorsement by ATMTA, Inc. Inspired by Star Atlas. STAR ATLAS and STAR ATLAS: POWERED BY THE PEOPLE are trademarks or registered trademarks of ATMTA, Inc.
+- This file is a supplementary machine-readable summary. The canonical HTML pages and data/links.json remain authoritative.

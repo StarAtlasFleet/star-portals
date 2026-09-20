@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" role="img" aria-label="starportal">
+  <!-- 雕刻星圖版標記:黃銅 portal 環(底部門洞)+ 珊瑚四芒星 + 象牙小點 -->
+  <path d="M15 39.6 A18 18 0 1 1 33 39.6" fill="none" stroke="#c9a24b" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M15 39.6 L18.4 34.4 M33 39.6 L29.6 34.4" stroke="#c9a24b" stroke-width="2.4" stroke-linecap="round"/>
+  <path d="M24 11 L26.6 21.4 L37 24 L26.6 26.6 L24 37 L21.4 26.6 L11 24 L21.4 21.4 Z" fill="#d96a52"/>
+  <circle cx="36.7" cy="11.3" r="2.1" fill="#efe6d3"/>
+</svg>

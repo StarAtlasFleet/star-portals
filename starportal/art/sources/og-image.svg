@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">starportal social preview</title>
+  <desc id="description">A dark engraved brass star chart for an unofficial directory of player-made Star Atlas community projects.</desc>
+  <defs>
+    <radialGradient id="background" cx="75%" cy="48%" r="76%">
+      <stop offset="0" stop-color="#19273e"/>
+      <stop offset=".5" stop-color="#101b30"/>
+      <stop offset="1" stop-color="#0a0f1c"/>
+    </radialGradient>
+    <linearGradient id="spectrum" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#78e6df"/>
+      <stop offset=".32" stop-color="#7aa8ff"/>
+      <stop offset=".6" stop-color="#b99cff"/>
+      <stop offset=".82" stop-color="#ff91b8"/>
+      <stop offset="1" stop-color="#ffd08a"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grain" width="27" height="27" patternUnits="userSpaceOnUse">
+      <circle cx="4" cy="7" r=".65" fill="#efe6d3" opacity=".08"/>
+      <circle cx="21" cy="13" r=".5" fill="#efe6d3" opacity=".06"/>
+      <circle cx="12" cy="24" r=".45" fill="#d96a52" opacity=".1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#background)"/>
+  <rect width="1200" height="630" fill="url(#grain)"/>
+  <path d="M48 84V48h36M1116 48h36v36M48 546v36h36M1116 582h36v-36" fill="none" stroke="#c9a24b" stroke-width="2" opacity=".46"/>
+
+  <g transform="translate(838 316)" fill="none">
+    <circle r="229" stroke="#c9a24b" stroke-width="2" opacity=".5"/>
+    <circle r="211" stroke="#c9a24b" stroke-width=".8" stroke-dasharray="2 8" opacity=".34"/>
+    <circle r="154" stroke="#c9a24b" stroke-width=".7" opacity=".18"/>
+    <circle r="90" stroke="#c9a24b" stroke-width=".7" opacity=".15"/>
+    <path d="M-182-65L-92-144 5-103 111-157 177-62 124 42 174 132 48 173-61 120-166 153-141 36Z" stroke="#c9a24b" stroke-width="1.2" opacity=".47"/>
+    <path d="M-92-144L-61 120M5-103L124 42M-182-65L48 173M111-157L174 132M-141 36L177-62" stroke="#c9a24b" stroke-width=".65" opacity=".22"/>
+
+    <g fill="#efe6d3">
+      <circle cx="-182" cy="-65" r="5"/><circle cx="-92" cy="-144" r="8"/>
+      <circle cx="5" cy="-103" r="4"/><circle cx="111" cy="-157" r="6"/>
+      <circle cx="177" cy="-62" r="4"/><circle cx="124" cy="42" r="9"/>
+      <circle cx="174" cy="132" r="5"/><circle cx="48" cy="173" r="7"/>
+      <circle cx="-61" cy="120" r="4"/><circle cx="-166" cy="153" r="6"/>
+      <circle cx="-141" cy="36" r="4"/>
+    </g>
+    <g stroke="url(#spectrum)" filter="url(#glow)">
+      <circle cx="-92" cy="-144" r="16" opacity=".6"/>
+      <circle cx="124" cy="42" r="19" opacity=".7"/>
+      <circle cx="48" cy="173" r="15" opacity=".58"/>
+    </g>
+    <path d="M0-43L7-7L43 0 7 7 0 43-7 7-43 0-7-7Z" fill="#d96a52"/>
+    <circle r="6" fill="#efe6d3"/>
+  </g>
+
+  <g font-family="Georgia, 'Times New Roman', serif">
+    <text x="72" y="190" fill="#efe6d3" font-size="74" font-weight="700" letter-spacing="-2">star<tspan fill="url(#spectrum)">portal</tspan></text>
+    <text x="76" y="244" fill="#c9a24b" font-size="18" letter-spacing="5">COMMUNITY STARS</text>
+    <text x="76" y="285" fill="#efe6d3" opacity=".72" font-size="24">Player-made games · Tools</text>
+    <text x="76" y="320" fill="#efe6d3" opacity=".72" font-size="24">Guides · Analytics · Media</text>
+  </g>
+
+  <g transform="translate(76 420)">
+    <rect width="354" height="52" fill="#0a0f1c" stroke="#c9a24b" opacity=".95"/>
+    <path d="M0 0h6M0 0v6M354 0h-6M354 0v6M0 52h6M0 52v-6M354 52h-6M354 52v-6" stroke="url(#spectrum)" stroke-width="3"/>
+    <text x="177" y="33" fill="#efe6d3" font-family="ui-monospace, monospace" font-size="15" text-anchor="middle" letter-spacing="2">UNOFFICIAL · PLAYER-MADE</text>
+  </g>
+
+  <text x="76" y="548" fill="#efe6d3" opacity=".48" font-family="ui-monospace, monospace" font-size="14" letter-spacing="2">STARPORTAL.PAGES.DEV</text>
+</svg>

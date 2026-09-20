@@ -1,0 +1,10 @@
+.DS_Store
+.env
+.env.*
+.agent-tmp/
+node_modules/
+dist/
+coverage/
+test-results/
+playwright-report/
+.wrangler/

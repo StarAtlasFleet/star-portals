@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "updated": "2026-07-30",
+  "assets": [
+    {
+      "id": "atlasportal-social-preview",
+      "intent": "1200×630 Open Graph / Twitter Card preview matching the portal's engraved brass orrery visual language while making the unofficial status explicit.",
+      "source": {
+        "path": "art/sources/og-image.svg",
+        "sha256": "26e902c155964608f36b8dbd5ffa39dc2fa5907af8765a481090ce0245d842db",
+        "generator": "Hand-authored SVG; no generative model",
+        "sourceRelationship": "Original portal artwork; no external images, official logos, or third-party assets"
+      },
+      "licenseStatus": "Original project artwork",
+      "derivatives": [
+        {
+          "path": "og-image.png",
+          "sha256": "dba455a0ce494b5ca3499c6d54d7da55db5eff2e060d485d6bdfae03368ca033",
+          "dimensions": "1200x630",
+          "format": "PNG",
+          "renderer": "sharp 0.32.6 / libvips 8.14.5"
+        }
+      ]
+    },
+    {
+      "id": "atlasportal-install-icons",
+      "intent": "Install and touch icons derived from the existing original atlasportal mark.",
+      "source": {
+        "path": "logo.svg",
+        "sha256": "6fa3194f33ec1ba5b7ed8da24f2369aa69fe5f5c36e2b956060bb5dfff849812",
+        "generator": "Existing hand-authored SVG mark",
+        "sourceRelationship": "Original portal logo"
+      },
+      "licenseStatus": "Original project artwork",
+      "derivatives": [
+        {
+          "path": "icon-192.png",
+          "sha256": "38e1c8f8f412e631bd1649ba7d7ea91ddd4ec69f02cf7784d4865d82d377d683",
+          "dimensions": "192x192",
+          "format": "PNG"
+        },
+        {
+          "path": "icon-512.png",
+          "sha256": "1f67aaed6211986d3fc2596d34f86921a71cb6befb901c10d2d10453493415f0",
+          "dimensions": "512x512",
+          "format": "PNG"
+        },
+        {
+          "path": "apple-touch-icon.png",
+          "sha256": "4b427a713dcb16c24907ed5e2ef5744f71b91f515c69295355aae92aac3ee7e4",
+          "dimensions": "180x180",
+          "format": "PNG"
+        }
+      ]
+    }
+  ]
+}
