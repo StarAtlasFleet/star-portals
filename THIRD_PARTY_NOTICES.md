@@ -20,4 +20,6 @@ The pages request Cinzel, Noto Serif TC and Space Mono from Google Fonts. Font b
 
 ## Source evidence
 
+The README screenshots are unedited browser captures of the public Portal interfaces. [Screenshot provenance](docs/screenshots/manifest.json) records their source URLs, capture dimensions and hashes. Original interface artwork remains under MIT; visible third-party names, marks and font designs retain their respective rights. Screenshots do not bundle font binaries or grant rights to linked works.
+
 The public data contains curated URLs and short relevance/verification notes. Raw chat archives, private correspondence and research exports are not part of this distribution.

@@ -1,0 +1,90 @@
+{
+  "schemaVersion": 1,
+  "purpose": "Approved public README screenshots",
+  "captureMethod": "Codex in-app browser; viewport captures of live public sites, converted from JPEG to PNG without cropping, resizing or content changes.",
+  "deviceNote": "Desktop and mobile viewport emulation, not a physical-device test.",
+  "licenseStatus": "Original Portal interface artwork is MIT. Visible third-party names, marks and font designs retain their respective rights; see ../../THIRD_PARTY_NOTICES.md.",
+  "review": "Visually inspected for accurate interface rendering and absence of private information.",
+  "assets": [
+    {
+      "path": "starportal-desktop.png",
+      "intent": "README live-site overview",
+      "sourceUrl": "https://starportal.pages.dev/en/?sound=0",
+      "language": "en",
+      "theme": "brass",
+      "view": "map overview",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pixels": {
+        "width": 1440,
+        "height": 900
+      },
+      "format": "PNG",
+      "bytes": 696842,
+      "sha256": "f1516235a9562c4ac06827819997e9faffffb7feb3e0845c1a08d7a8944aab10",
+      "capturedAt": "2026-09-20T19:33:39.228Z"
+    },
+    {
+      "path": "starportal-mobile.png",
+      "intent": "README mobile directory demonstration",
+      "sourceUrl": "https://starportal.pages.dev/?sound=0",
+      "language": "zh-TW",
+      "theme": "brass",
+      "view": "open directory",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pixels": {
+        "width": 390,
+        "height": 844
+      },
+      "format": "PNG",
+      "bytes": 238291,
+      "sha256": "175074580226eb211870ab7d219269e117ef6c21328620cd463371a24067ef29",
+      "capturedAt": "2026-09-20T19:34:12.095Z"
+    },
+    {
+      "path": "atlasportal-desktop.png",
+      "intent": "README live-site overview",
+      "sourceUrl": "https://atlasportal.pages.dev/en/?sound=0",
+      "language": "en",
+      "theme": "brass",
+      "view": "map overview",
+      "viewport": {
+        "width": 1440,
+        "height": 900
+      },
+      "pixels": {
+        "width": 1440,
+        "height": 900
+      },
+      "format": "PNG",
+      "bytes": 630264,
+      "sha256": "9ad76b742fdbb24ee9d7142c8ec8ad7b15b2661e30f6243a4be42a91bc47052a",
+      "capturedAt": "2026-09-20T19:34:24.965Z"
+    },
+    {
+      "path": "atlasportal-mobile.png",
+      "intent": "README mobile directory demonstration",
+      "sourceUrl": "https://atlasportal.pages.dev/?sound=0",
+      "language": "zh-TW",
+      "theme": "brass",
+      "view": "open directory",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "pixels": {
+        "width": 390,
+        "height": 844
+      },
+      "format": "PNG",
+      "bytes": 228799,
+      "sha256": "769f4277a7ea17a37ffe6777e08cbf27830c1da78d6e54cd116c45abda64c338",
+      "capturedAt": "2026-09-20T19:35:01.701Z"
+    }
+  ]
+}
