@@ -21,7 +21,7 @@ Open [starportal](http://127.0.0.1:4178/starportal/?sound=0) or [atlasportal](ht
 
 ## Contribute a link or correction
 
-You do not need to write code: [open an issue](https://github.com/gjlmotea/star-portals/issues/new/choose) with the public homepage, creator name, category and evidence of relevance. English and Traditional Chinese are welcome. Maintainers review submissions; do not upload private conversations, credentials, or unlicensed artwork.
+You do not need to write code: [open an issue](https://github.com/StarAtlasFleet/star-portals/issues/new/choose) with the public homepage, creator name, category and evidence of relevance. English and Traditional Chinese are welcome. Maintainers review submissions; do not upload private conversations, credentials, or unlicensed artwork.
 
 Read [CONTRIBUTING.md](CONTRIBUTING.md) and [directory rules](docs/DIRECTORY_POLICY.md) for the full workflow. Existing creators and the maintainer's own projects follow the same rules.
 
